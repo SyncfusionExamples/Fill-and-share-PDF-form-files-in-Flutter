@@ -1,2 +1,2 @@
 # Fill-and-share-PDF-form-files-in-Flutter
-Example application to fill and share PDF form files using Syncfusion Flutter PDF Viewer.
+This repository contains the example which demonstrates how to fill a PDF form with proper validations and share it externally using Syncfusion Flutter PDF Viewer.
